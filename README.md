@@ -10,4 +10,7 @@ Base code plus an example of dockable panel.
 
 You also have a file as an example. You can copy that to your After Effects ScriptUI folder and see how it works.
 
+I have also crated an article on Medium about this, with a lot more explanation. You can check it out here
+https://medium.com/@andreipopa191187/easiest-way-to-create-a-dockable-panel-in-adobe-after-effects-a9791d2e012a
+
 Suggestions and constructive criticism always welcomed.
